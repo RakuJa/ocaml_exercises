@@ -1,4 +1,5 @@
 (executable
  (public_name ocaml_exercises)
  (name main)
+ (modules main Math)
  (libraries ocaml_exercises))
